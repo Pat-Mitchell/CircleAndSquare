@@ -1,5 +1,7 @@
-// SquareMovesTowardCircle.cpp : Defines the entry point for the console application.
-//
+/*
+Simple program where a square will move twords a circle that the user controls with the arrow keys.
+The program closes once the two shapes collide.
+*/
 
 #include "stdafx.h"
 #include "SFML\Graphics.hpp"
